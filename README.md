@@ -70,12 +70,13 @@ Created and published the first application for tracking cryptocurrency rates on
 ![VITTACH's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITTACH&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VITTACH&layout=compact&theme=react)](https://github.com/VITTACH/github-readme-stats)
 
+**My stats:**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VITTACH&theme=dark&background=000000)](https://git.io/streak-stats)
+
 **My top repositories:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VITTACH&repo=TelegramListener&theme=onedark)](https://github.com/VITTACH/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VITTACH&repo=CoinRoadAndroid&theme=onedark)](https://github.com/VITTACH/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VITTACH&repo=VittachJavaCraft&theme=onedark)](https://github.com/VITTACH/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VITTACH&repo=FakePermissions&theme=onedark)](https://github.com/VITTACH/github-readme-stats)
 
 **My wisdom:**
