@@ -70,15 +70,15 @@ Created and published the first application for tracking cryptocurrency rates on
 ![VITTACH's GitHub stats](https://github-readme-stats.vercel.app/api?username=VITTACH&theme=react&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VITTACH&layout=compact&theme=react)](https://github.com/VITTACH/github-readme-stats)
 
-**My stats:**
+**⏳ Stats:**
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VITTACH&theme=dark&background=000000)](https://git.io/streak-stats)
 
-**My top repositories:**
+**🔥 repos:**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VITTACH&repo=TelegramListener&theme=onedark)](https://github.com/VITTACH/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VITTACH&repo=FakePermissions&theme=onedark)](https://github.com/VITTACH/github-readme-stats)
 
-**My wisdom:**
+**🧠 Wisdom:**
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=%D0%9A%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%B0%D1%80%D1%85%D0%B8%D1%82%D0%B5%D0%BA%D1%82%D1%83%D1%80%D0%B0%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D0%B5%D1%82%D1%81%D1%8F%20%D1%81%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B)](https://github.com/piyushsuthar/github-readme-quotes)
